@@ -55,7 +55,7 @@
       </Label>
       <ImageView fitHeight="340.0" fitWidth="321.0" layoutX="358.0" layoutY="218.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../../../Downloads/8417751-happy-smiling-pizza-made-of-pepperoni-and-mozzarella.jpg" />
+            <Image url="@..SmilingPizza.jpg" />
          </image>
       </ImageView>
       <Label layoutX="360.0" layoutY="563.0" text="Your Order Will Be Ready In 25 Minutes">
